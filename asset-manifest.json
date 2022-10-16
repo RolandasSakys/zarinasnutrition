@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/zarinasnutrition/static/css/main.8e8e2915.css",
+    "main.css": "/zarinasnutrition/static/css/main.ab61d7d7.css",
     "main.js": "/zarinasnutrition/static/js/main.d527bdfc.js",
     "index.html": "/zarinasnutrition/index.html",
-    "main.8e8e2915.css.map": "/zarinasnutrition/static/css/main.8e8e2915.css.map",
+    "main.ab61d7d7.css.map": "/zarinasnutrition/static/css/main.ab61d7d7.css.map",
     "main.d527bdfc.js.map": "/zarinasnutrition/static/js/main.d527bdfc.js.map"
   },
   "entrypoints": [
-    "static/css/main.8e8e2915.css",
+    "static/css/main.ab61d7d7.css",
     "static/js/main.d527bdfc.js"
   ]
 }
