@@ -483,6 +483,7 @@ ul li:before {
   justify-content: center;
   align-items: center;
   margin-top: 50px;
+  box-shadow: var(--shadow);
 }
 
 .footer-section {
