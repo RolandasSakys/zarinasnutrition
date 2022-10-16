@@ -125,7 +125,7 @@ ul li:before {
 /* Image Styles */
 
 .main-image {
-  width: 80%;
+  width: 95%;
   margin: 3rem auto 2rem;
 }
 
@@ -134,7 +134,7 @@ ul li:before {
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  width: 70%;
+  width: 80%;
   margin: auto;
   text-align: center;
 }
@@ -146,7 +146,7 @@ ul li:before {
 }
 
 .buttons-section {
-  width: 80%;
+  width: 90%;
   margin: auto;
   display: flex;
   flex-direction: column;
