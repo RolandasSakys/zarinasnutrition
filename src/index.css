@@ -111,6 +111,7 @@ ul li:before {
   cursor: pointer;
   letter-spacing: var(--letter-spacing);
   font-weight: bold;
+  padding: 0 1.5rem;
 }
 
 .btn:hover {
